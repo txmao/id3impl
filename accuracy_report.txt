@@ -1,0 +1,164 @@
+# experiments settings #
+The choosing (L, K) pair for both data_sets1 and data_set2 are as following:
+(10, 5)
+(10, 15)
+(10, 35)
+(20, 5)
+(20, 15)
+(20, 35)
+(20, 65)
+(30, 5)
+(30, 10)
+(30, 20)
+
+
+# results (accuracy) on data_sets1 #
+
+(10, 5)
+### Accuracy Information Reported Bellow: ###
+original tree (information gain heuristic) prediction accuracy on test set: 0.7585
+pruned tree (information gain heuristic) prediction accuracy on test set: 0.7585
+original tree (variance impurity heuristic) prediction accuracy on test set: 0.7665
+pruned tree (variance impurity heuristic) prediction accuracy on test set: 0.7685
+
+(10, 15)
+### Accuracy Information Reported Bellow: ###
+original tree (information gain heuristic) prediction accuracy on test set: 0.7585
+pruned tree (information gain heuristic) prediction accuracy on test set: 0.7575
+original tree (variance impurity heuristic) prediction accuracy on test set: 0.7665
+pruned tree (variance impurity heuristic) prediction accuracy on test set: 0.757
+
+(10, 35)
+### Accuracy Information Reported Bellow: ###
+original tree (information gain heuristic) prediction accuracy on test set: 0.7585
+pruned tree (information gain heuristic) prediction accuracy on test set: 0.7695
+original tree (variance impurity heuristic) prediction accuracy on test set: 0.7665
+pruned tree (variance impurity heuristic) prediction accuracy on test set: 0.7685
+
+(20, 5)
+### Accuracy Information Reported Bellow: ###
+original tree (information gain heuristic) prediction accuracy on test set: 0.7585
+pruned tree (information gain heuristic) prediction accuracy on test set: 0.759
+original tree (variance impurity heuristic) prediction accuracy on test set: 0.7665
+pruned tree (variance impurity heuristic) prediction accuracy on test set: 0.7685
+
+(20, 15)
+### Accuracy Information Reported Bellow: ###
+original tree (information gain heuristic) prediction accuracy on test set: 0.7585
+pruned tree (information gain heuristic) prediction accuracy on test set: 0.7635
+original tree (variance impurity heuristic) prediction accuracy on test set: 0.7665
+pruned tree (variance impurity heuristic) prediction accuracy on test set: 0.7705
+
+(20, 35)
+### Accuracy Information Reported Bellow: ###
+original tree (information gain heuristic) prediction accuracy on test set: 0.7585
+pruned tree (information gain heuristic) prediction accuracy on test set: 0.758
+original tree (variance impurity heuristic) prediction accuracy on test set: 0.7665
+pruned tree (variance impurity heuristic) prediction accuracy on test set: 0.773
+
+(20, 65)
+### Accuracy Information Reported Bellow: ###
+original tree (information gain heuristic) prediction accuracy on test set: 0.7585
+pruned tree (information gain heuristic) prediction accuracy on test set: 0.775
+original tree (variance impurity heuristic) prediction accuracy on test set: 0.7665
+pruned tree (variance impurity heuristic) prediction accuracy on test set: 0.7675
+
+(30, 5)
+### Accuracy Information Reported Bellow: ###
+original tree (information gain heuristic) prediction accuracy on test set: 0.7585
+pruned tree (information gain heuristic) prediction accuracy on test set: 0.76
+original tree (variance impurity heuristic) prediction accuracy on test set: 0.7665
+pruned tree (variance impurity heuristic) prediction accuracy on test set: 0.771
+
+(30, 10)
+### Accuracy Information Reported Bellow: ###
+original tree (information gain heuristic) prediction accuracy on test set: 0.7585
+pruned tree (information gain heuristic) prediction accuracy on test set: 0.767
+original tree (variance impurity heuristic) prediction accuracy on test set: 0.7665
+pruned tree (variance impurity heuristic) prediction accuracy on test set: 0.7715
+
+(30, 20)
+### Accuracy Information Reported Bellow: ###
+original tree (information gain heuristic) prediction accuracy on test set: 0.7585
+pruned tree (information gain heuristic) prediction accuracy on test set: 0.7615
+original tree (variance impurity heuristic) prediction accuracy on test set: 0.7665
+pruned tree (variance impurity heuristic) prediction accuracy on test set: 0.7745
+
+
+# results (accuracy) on data_sets2 #
+
+(10, 5)
+### Accuracy Information Reported Bellow: ###
+original tree (information gain heuristic) prediction accuracy on test set: 0.723333333333
+pruned tree (information gain heuristic) prediction accuracy on test set: 0.738333333333
+original tree (variance impurity heuristic) prediction accuracy on test set: 0.725
+pruned tree (variance impurity heuristic) prediction accuracy on test set: 0.728333333333
+
+(10, 15)
+### Accuracy Information Reported Bellow: ###
+original tree (information gain heuristic) prediction accuracy on test set: 0.723333333333
+pruned tree (information gain heuristic) prediction accuracy on test set: 0.758333333333
+original tree (variance impurity heuristic) prediction accuracy on test set: 0.725
+pruned tree (variance impurity heuristic) prediction accuracy on test set: 0.75
+
+(10, 35)
+### Accuracy Information Reported Bellow: ###
+original tree (information gain heuristic) prediction accuracy on test set: 0.723333333333
+pruned tree (information gain heuristic) prediction accuracy on test set: 0.725
+original tree (variance impurity heuristic) prediction accuracy on test set: 0.725
+pruned tree (variance impurity heuristic) prediction accuracy on test set: 0.731666666667
+
+(20, 5)
+### Accuracy Information Reported Bellow: ###
+original tree (information gain heuristic) prediction accuracy on test set: 0.723333333333
+pruned tree (information gain heuristic) prediction accuracy on test set: 0.735
+original tree (variance impurity heuristic) prediction accuracy on test set: 0.725
+pruned tree (variance impurity heuristic) prediction accuracy on test set: 0.73
+
+(20, 15)
+### Accuracy Information Reported Bellow: ###
+original tree (information gain heuristic) prediction accuracy on test set: 0.723333333333
+pruned tree (information gain heuristic) prediction accuracy on test set: 0.738333333333
+original tree (variance impurity heuristic) prediction accuracy on test set: 0.725
+pruned tree (variance impurity heuristic) prediction accuracy on test set: 0.753333333333
+
+(20, 35)
+### Accuracy Information Reported Bellow: ###
+original tree (information gain heuristic) prediction accuracy on test set: 0.723333333333
+pruned tree (information gain heuristic) prediction accuracy on test set: 0.725
+original tree (variance impurity heuristic) prediction accuracy on test set: 0.725
+pruned tree (variance impurity heuristic) prediction accuracy on test set: 0.723333333333
+
+(20, 65)
+### Accuracy Information Reported Bellow: ###
+original tree (information gain heuristic) prediction accuracy on test set: 0.723333333333
+pruned tree (information gain heuristic) prediction accuracy on test set: 0.723333333333
+original tree (variance impurity heuristic) prediction accuracy on test set: 0.725
+pruned tree (variance impurity heuristic) prediction accuracy on test set: 0.725
+
+(30, 5)
+### Accuracy Information Reported Bellow: ###
+original tree (information gain heuristic) prediction accuracy on test set: 0.723333333333
+pruned tree (information gain heuristic) prediction accuracy on test set: 0.743333333333
+original tree (variance impurity heuristic) prediction accuracy on test set: 0.725
+pruned tree (variance impurity heuristic) prediction accuracy on test set: 0.736666666667
+
+(30, 10)
+### Accuracy Information Reported Bellow: ###
+original tree (information gain heuristic) prediction accuracy on test set: 0.723333333333
+pruned tree (information gain heuristic) prediction accuracy on test set: 0.728333333333
+original tree (variance impurity heuristic) prediction accuracy on test set: 0.725
+pruned tree (variance impurity heuristic) prediction accuracy on test set: 0.728333333333
+
+(30, 20)
+### Accuracy Information Reported Bellow: ###
+original tree (information gain heuristic) prediction accuracy on test set: 0.723333333333
+pruned tree (information gain heuristic) prediction accuracy on test set: 0.738333333333
+original tree (variance impurity heuristic) prediction accuracy on test set: 0.725
+pruned tree (variance impurity heuristic) prediction accuracy on test set: 0.723333333333
+
+
+
+
+
+
